@@ -1,5 +1,5 @@
-# -
-对没有标点长恨歌加标点插入在控制台查询某字出现次数    
+# 标点处理
+## 对没有标点长恨歌加标点插并入在控制台查询某字出现次数    
 ### 中文字符判断方法  
 
 `public static boolean isChineseChar(String string) {	 `  
