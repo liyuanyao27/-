@@ -59,3 +59,7 @@
 请输入想要查询的字符(串)：  
 三千  
 该字符(串)在文本中出现了2次
+
+### 运行截图
+[图片]:https://github.com/liyuanyao27/changhenge/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png?raw=true
+![图片]
